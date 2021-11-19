@@ -85,7 +85,7 @@ body {
 .circle {
   margin-right: 30px;
   width: 55px;
-  background-color: #3be0ad;
+  background-color: cyan;
   border-radius: 50px;
   padding: 8px;
 }
